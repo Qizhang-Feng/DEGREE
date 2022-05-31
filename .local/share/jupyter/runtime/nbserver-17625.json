@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/grads/q/qf31/end2end",
+  "password": false,
+  "pid": 17625,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "e436e642f4240a428364e0a56b9473dd216d84f94caedadb",
+  "url": "http://localhost:8888/"
+}

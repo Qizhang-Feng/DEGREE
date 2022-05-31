@@ -232,7 +232,7 @@ def print_explain(dataset, model, idx, class_idx = None, visible = True, figsize
     return np.argsort(node_colors)[::-1], node_colors, elapsed
 
 
-def Edge_explain(model, dataset, edge_list = None  , idx = 0, node_range = None, softmax = False):
+def Edge_explain(model, dataset, edge_list = None, idx = 0, node_range = None, softmax = False):
     """
     idx: idx of graph to explain
     """

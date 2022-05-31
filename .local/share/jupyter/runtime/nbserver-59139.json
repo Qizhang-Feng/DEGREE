@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/grads/q/qf31",
+  "password": false,
+  "pid": 59139,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "2878f6dd1a45f9338694070360338cd998221e6b07271144",
+  "url": "http://localhost:8888/"
+}

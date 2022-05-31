@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/grads/q/qf31/DP-Counterfactual",
+  "password": false,
+  "pid": 33557,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "ff658f99a09fffc010a0a682fba2a29814aa53dad44da9f4",
+  "url": "http://localhost:8888/"
+}
